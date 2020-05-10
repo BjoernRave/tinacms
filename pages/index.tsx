@@ -28,7 +28,7 @@ export default function Home({ file }) {
         <h1 className='title'>{data.title}</h1>
 
         <p className='description'>
-          Get started by editing <code>pages/index.js</code>
+          Get starteds by editing <code>pages/index.js</code>
         </p>
 
         <div className='grid'>
