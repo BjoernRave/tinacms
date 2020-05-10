@@ -39,7 +39,7 @@ export default function Home({ file }) {
 
           <a href='https://nextjs.org/learn' className='card'>
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learsn about Next.js in an interactive course with quizzes!</p>
           </a>
 
           <a
